@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HelloWindowsPhone
+</name>
+</assembly>
+<members>
+<member name="M:HelloWindowsPhone.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:HelloWindowsPhone.SecondPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:HelloWindowsPhone.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:HelloWindowsPhone.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member><member name="M:HelloWindowsPhone.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

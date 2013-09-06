@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\Rob\Documents\Visual Studio 2010\Projects\HelloWindowsPhone\HelloWindowsPhone\Bin\Debug\HelloWindowsPhone.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="9/5/2013 3:45:29 PM">
+  <file source="C:\Users\Rob\Documents\Visual Studio 2010\Projects\HelloWindowsPhone\HelloWindowsPhone\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9/5/2013 2:26:59 PM" />
+  <file source="C:\Users\Rob\Documents\Visual Studio 2010\Projects\HelloWindowsPhone\HelloWindowsPhone\obj\Debug\HelloWindowsPhone.dll" archivePath="HelloWindowsPhone.dll" lastWriteTime="9/5/2013 3:45:29 PM" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\Microsoft.Expression.Interactions.dll" archivePath="Microsoft.Expression.Interactions.dll" lastWriteTime="8/17/2011 1:48:22 AM" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="8/17/2011 1:48:22 AM" />
+  <file source="C:\Users\Rob\Documents\Visual Studio 2010\Projects\HelloWindowsPhone\HelloWindowsPhone\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/4/2013 6:16:24 PM" />
+  <file source="C:\Users\Rob\Documents\Visual Studio 2010\Projects\HelloWindowsPhone\HelloWindowsPhone\Background.png" archivePath="Background.png" lastWriteTime="9/4/2013 6:16:24 PM" />
+  <file source="C:\Users\Rob\Documents\Visual Studio 2010\Projects\HelloWindowsPhone\HelloWindowsPhone\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="9/4/2013 6:16:24 PM" />
+  <file source="C:\Users\Rob\Documents\Visual Studio 2010\Projects\HelloWindowsPhone\HelloWindowsPhone\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="9/4/2013 11:14:39 PM" />
+  <file source="C:\Users\Rob\Documents\Visual Studio 2010\Projects\HelloWindowsPhone\HelloWindowsPhone\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/4/2013 6:16:24 PM" />
+  <file source="C:\Users\Rob\Documents\Visual Studio 2010\Projects\HelloWindowsPhone\HelloWindowsPhone\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="9/4/2013 6:16:24 PM" />
+</xapCache>
